@@ -40,8 +40,8 @@ $aModule = array(
         'order_overview' => 'oe/invoicepdf/controllers/admin/invoicepdforder_overview'
     ),
     'files'       => array(
-        'InvoicepdfBlock'          => 'oe/invoicepdf/models/invoicepdfblock.php',
-        'InvoicepdfArticleSummary' => 'oe/invoicepdf/models/invoicepdfarticlesummary.php'
+        'PdfBlock'          => 'oe/invoicepdf/models/invoicepdfblock.php',
+        'PdfArticleSummary' => 'oe/invoicepdf/models/invoicepdfarticlesummary.php'
     ),
     'blocks'      => array(
         array(
